@@ -1,2 +1,2 @@
 # MISJ
- Modelis Instituto San Jose
+ Modelos Instituto San Jose
